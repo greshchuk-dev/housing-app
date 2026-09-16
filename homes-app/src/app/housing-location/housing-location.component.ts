@@ -7,7 +7,7 @@ import { CommonModule } from '@angular/common';
   imports: [CommonModule],
   template: `
     <p>
-      housing-location works!
+      housing-location works
     </p>
   `,
   styleUrls: ['./housing-location.component.css']
